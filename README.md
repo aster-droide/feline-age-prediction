@@ -1,3 +1,7 @@
+# This work is licensed under CC BY, please cite [this paper](https://rdcu.be/eJi5P) when using this work: 
+
+van Toor, A., Qazi, N. & Paladini, S. A deep learning pipeline for age prediction from vocalisations of the domestic feline. _Sci Rep_ **15**, 34565 (2025). https://doi.org/10.1038/s41598-025-17986-z
+
 # feline-age-prediction
 Dev scripts, analysis, and model builds for a feline age prediction machine learning pipeline 
 
@@ -17,4 +21,4 @@ Feature extraction from selected audio transfer learning (TL) models can be foun
 
 For further inquiries or collaboration, please contact:
 
-Astrid van Toor - astridvantoor@gmail.com
+Astrid van Toor - astridvantoor@gmail.com / avtoor@blueoasis.pt
